@@ -1,4 +1,4 @@
-# NotoSansEgyptiagitan to Gardiner
+# NotoSansEgyptian to Gardiner
 
 Nota sans fonts as SVG, tagged to gardiner codes.
 
