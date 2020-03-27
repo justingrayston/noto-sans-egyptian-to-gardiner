@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1150 2048">
-  <g transform="matrix(1 0 0 -1 0 1638)">
+  <g transform="scale(1, -1)" transform-origin="center">
    <path fill="currentColor"
 d="M529 828q-129 -5 -429 -56v228q241 -46 392 -55q-115 190 -182.5 325t-103.5 247t-36 188q0 165 105.5 259t295.5 94q189 0 295 -93.5t106 -259.5q0 -80 -39.5 -199.5t-120 -276.5t-162.5 -284q174 13 390 55v-229q-271 51 -428 57l95 -890h-272zM312 1705
 q0 -78 69.5 -246.5t189.5 -382.5q143 264 201 410t58 219q0 97 -71 154t-188 57q-118 0 -188.5 -57.5t-70.5 -153.5zM599 942q-194 348 -260.5 510.5t-66.5 252.5q0 80 39 136t106 85.5t154 29.5q86 0 154 -30t106.5 -86t38.5 -135q0 -82 -58.5 -232t-217.5 -439l30 -53
