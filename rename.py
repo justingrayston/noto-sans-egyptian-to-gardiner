@@ -14,4 +14,4 @@ for k, v in data.items():
     new_filename = 'svg/{}.svg'.format(v.lower())
     if len(file_to_rename):
         print('old file: {}, new file: {}'.format(file_to_rename[0], new_filename))
-        # os.rename(file_to_rename[0], new_filename)
+        os.rename(file_to_rename[0], new_filename)
